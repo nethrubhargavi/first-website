@@ -112,6 +112,7 @@ a:hover{
 .eyes{
   margin: 0 auto 0 auto;
   position: relative;
+  width: 30%;
 }
 
 .skill-row{
