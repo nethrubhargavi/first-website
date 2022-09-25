@@ -89,9 +89,8 @@ a:hover{
 .title{
   font-size: 30px;
   font-family: 'Encode Sans', sans-serif;
-  position: absolute;
-  top: 500px;
-  left: 555px;
+  position: relative;
+  bottom: 180px;
 }
 
 .insta{
